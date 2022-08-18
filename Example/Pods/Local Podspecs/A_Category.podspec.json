@@ -1,0 +1,27 @@
+{
+  "name": "A_Category",
+  "version": "0.0.1",
+  "summary": "A short description of A_Category.",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "description": "A short description of A_Category.A short description of A_Category.",
+  "homepage": "https://github.com/MasterYou/A_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "masteryooh": "379956383@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MasterYou/A_Category.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "A_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
